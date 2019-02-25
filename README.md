@@ -1,2 +1,5 @@
 Omnifood Website
-![](project screenshots/header.png)
+
+<img src="project screenshots/header.png">
+
+
