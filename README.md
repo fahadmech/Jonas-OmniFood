@@ -10,4 +10,20 @@ Meals section
 
 <img src="project screenshots/meals.jpg">
 
+how it works section
+
+<img src="project screenshots/works.png">
+
+cities section
+
+<img src="project screenshots/cities.png">
+
+testimonials section
+
+<img src="project screenshots/testimonials.png">
+
+plans and pricing section
+
+<img src="project screenshots/plans.png">
+
 
