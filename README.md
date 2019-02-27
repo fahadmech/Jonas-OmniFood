@@ -26,4 +26,8 @@ plans and pricing section
 
 <img src="project screenshots/plans.png">
 
+contact form & footer section
+
+<img src="project screenshots/form&footer.png">
+
 
